@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Juan Tester",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "credictCardNumber": "4455555554222224",
+    "month": "May",
+    "year": "2030"
+  },
+  {
+    "name": "Maria Tester",
+    "country": "Bolivia",
+    "city": "Santa Cruz",
+    "credictCardNumber": "1234567890000001",
+    "month": "March",
+    "year": "2029"
+  },
+  {
+    "name": "Jhanina Tester",
+    "country": "Bolivia",
+    "city": "Cochabamba",
+    "credictCardNumber": "411111111111111",
+    "month": "June",
+    "year": "2028"
+  }
+]
